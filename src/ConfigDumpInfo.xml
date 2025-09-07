@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="76b47281-11d3-47f8-9212-5878b6bb6cbc" configVersion="4f42df65b2d67a4a81c13761ffe2ee8100000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииИмпорт" id="0b00ce78-6905-4607-aa06-9e054782027d" configVersion="ba7f3a5affe0094a821a11082d51d69300000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииИмпорт.Module" id="0b00ce78-6905-4607-aa06-9e054782027d.0" configVersion="8dbcee4b51ae524ebc0cb3e0f3b4dc4500000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииСобытия" id="a7ddd9a0-5525-4d74-9305-bcd3dab65330" configVersion="ffa951283399dd4abeee56085ee021f500000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииСобытия.Module" id="a7ddd9a0-5525-4d74-9305-bcd3dab65330.0" configVersion="faaefea7007e6248a74a63134494be4900000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииЭкспорт" id="13054a5d-8494-4a48-a2aa-5b5a2bc8c8c6" configVersion="d110799983040d4784f1a403698712b800000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииЭкспорт.Module" id="13054a5d-8494-4a48-a2aa-5b5a2bc8c8c6.0" configVersion="820629be2f72a74783ab68192a5acb0600000000"/>
+		<Metadata name="CommonModule.СериализаторJDTO" id="92949c72-e37b-4f12-8435-f7987d2b15fb" configVersion="3ac2a4d07f656c4d9962c95c3bf790a100000000"/>
+		<Metadata name="CommonModule.СериализаторJDTO.Module" id="92949c72-e37b-4f12-8435-f7987d2b15fb.0" configVersion="390199779c82244782d6b7eb9f77800600000000"/>
+		<Metadata name="Configuration.МеханизмРепликации" id="ea9679d6-55c4-48ce-8ba7-e319b7f0b5b5" configVersion="446f3a06fc3e164c99e6d0e92918a41800000000"/>
+		<Metadata name="Configuration.МеханизмРепликации.ManagedApplicationModule" id="af1747d8-c203-4d85-b45c-1df1d3f9598e.6" configVersion="1bcefdecef09e1438689d1729711dc6e00000000"/>
+		<Metadata name="Configuration.МеханизмРепликации.SessionModule" id="af1747d8-c203-4d85-b45c-1df1d3f9598e.7" configVersion="b22d3b8f65230c41a1abe28e8530650800000000"/>
+		<Metadata name="Constant.МеханизмРепликацииИспользовать" id="d90ce0a7-528b-4361-92c9-d517df40b1b9" configVersion="6fb82ac67090534a8d29205edb9746ef00000000"/>
+		<Metadata name="Enum.МеханизмРепликацииФорматСообщения" id="07944901-7d20-46b0-af19-d7281dad78a2" configVersion="3f4c5cadb3c94949a4517b9abd90c28600000000">
+			<Metadata name="Enum.МеханизмРепликацииФорматСообщения.EnumValue.JDTO1C" id="6cebe579-9ee4-40cc-99cd-03c34879d5a7"/>
+			<Metadata name="Enum.МеханизмРепликацииФорматСообщения.EnumValue.XDTO1C" id="a4855599-a30d-40f3-bb13-b791cafeebd9"/>
+			<Metadata name="Enum.МеханизмРепликацииФорматСообщения.EnumValue.JDTO" id="e53a18a1-120f-4dfe-9fdb-e7c684cb2cd9"/>
+		</Metadata>
+		<Metadata name="Enum.МеханизмРепликацииФорматСообщения.ManagerModule" id="07944901-7d20-46b0-af19-d7281dad78a2.0" configVersion="3dbd3d23df263e4095250c5f51d057ba00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииБизнесПроцессПередЗаписью" id="7b3ce649-256b-40ed-92a6-101014a6a0be" configVersion="e9e59ddcd48cc84bbde8bef83878466a00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииБизнесПроцессПередУдалением" id="c368f91b-65b0-4834-bf04-7be33083c8e2" configVersion="9ee1e280a5083d48b285f5f7d111586d00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииБизнесПроцессПриЗаписи" id="b01e4354-8fda-4c43-ad83-648f904ae175" configVersion="21d40ad0119356418dcb4c0a3b46194700000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииДокументПередЗаписью" id="287a8de0-3271-40b5-8cbc-d227effc04d8" configVersion="1fd3e7adf8c88447adcc5833b01383f100000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииДокументПередУдалением" id="3da55629-e6b8-4536-b8d0-45283602f82a" configVersion="0ca5ab298e108640b1d74eb6557dae8700000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииДокументПриЗаписи" id="12e9b7fc-6efd-4897-8d59-529d57a56d4d" configVersion="500b991cb4fd2d4fa44d0feb43eb88aa00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииЗадачаПередЗаписью" id="47b6b797-686a-45eb-ae98-0516e54c772f" configVersion="11fdee743e19f34a996637660f752cfc00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииЗадачаПередУдалением" id="a47592c8-9d69-4c31-ae8c-661f044938c8" configVersion="ef0c529fff7eba49b84fc073a04bbbcc00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииЗадачаПриЗаписи" id="dd583ecb-e023-43a0-b12c-398566c06b38" configVersion="54d9fd2b964dd84682aa180013aeccac00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииРегистрНакопленияПередЗаписью" id="b4fed6e6-1a34-4ffe-8775-add7b3ecbcb2" configVersion="280875c50255384a96b159484afeea7500000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииРегистрНакопленияПриЗаписи" id="7185f4a6-f1e1-4c57-8a7b-8a9d2a19c8bf" configVersion="53a2c7ad1737ae4eade941108468c61e00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииРегистрСведенийПередЗаписью" id="e37cbf3b-3583-4b7f-8f86-8e3efa9515fa" configVersion="6241bd973d160f42aaba506c57d4e85600000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииРегистрСведенийПриЗаписи" id="bf658425-76f2-44d6-bc28-505df914bc02" configVersion="33179b76bf71d743adc8802b10f9d10300000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииСправочникПередЗаписью" id="859b008d-b747-475d-a87f-eed65c26c268" configVersion="f09ab68e50de7646a1fae3acf305d53100000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииСправочникПередУдалением" id="0cff4c1b-82ee-4bcd-85b4-6e0cd73d057f" configVersion="83977a4c9505d144bfada30acc99c31f00000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииСправочникПриЗаписи" id="857c5bb8-40bd-4b00-9fd1-6d2f818783cd" configVersion="fe1bb2810c79724bb989920aabf6274500000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииХарактеристикаПередЗаписью" id="21a66346-dfef-4ac9-a72b-2d765e7fa46d" configVersion="b335473fa06187488946ff2fb7627de800000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииХарактеристикаПередУдалением" id="cbf32e45-4bcd-46b8-884b-dc8b15675dec" configVersion="e954f04a32644548929af8847517bf9900000000"/>
+		<Metadata name="EventSubscription.МеханизмРепликацииХарактеристикаПриЗаписи" id="195341f5-0432-46b6-ab29-6430da54adc5" configVersion="e9e7e15b3a3c124f8df9ec75707f4cf900000000"/>
+		<Metadata name="ExchangePlan.МеханизмРепликации" id="9fcfae32-ee20-4237-8317-764993afb10c" configVersion="38a35c7a71c0fd43bccc0995eeebaeee00000000">
+			<Metadata name="ExchangePlan.МеханизмРепликации.Attribute.ФорматСообщения" id="88132086-c919-4839-9cfe-749e7796a3b2"/>
+		</Metadata>
+		<Metadata name="ExchangePlan.МеханизмРепликации.Content" id="9fcfae32-ee20-4237-8317-764993afb10c.1" configVersion="d6692207b34bed449569ca0a9c63d3d100000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь" id="c3b5c9d6-1c24-4d27-a0e6-1bf571fe81d3" configVersion="05961a043d728f4d918be804c29decf400000000">
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Dimension.МоментВремени" id="1ff57a65-b8b2-47db-86c2-b93492ffe908"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Dimension.Идентификатор" id="202d61ea-ae5f-4294-a909-5054297d0cbb"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Resource.Отправитель" id="496bd10f-a09c-4bf6-abe3-96bef525b387"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Attribute.ДатаВремя" id="6603c7bb-34f2-4c66-9ff1-4c7fbad462b7"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Attribute.КоличествоОшибок" id="82679cc8-2ca0-4628-91b7-9f6194c782e2"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Resource.ТипСообщения" id="98b2e2b5-cba6-4022-8a6a-1bdd5ce54117"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Resource.Заголовки" id="becf7588-6a95-4331-af6f-7368039a0830"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Resource.ТелоСообщения" id="cfab07be-c2a6-475c-8b73-d5e88c1aacff"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Attribute.ОписаниеОшибки" id="fcfbccf6-8d55-4a69-af48-933749f939de"/>
+		</Metadata>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.AdditionalIndexes" id="c3b5c9d6-1c24-4d27-a0e6-1bf571fe81d3.3" configVersion="4926d9fe60a7ef428ad634f3d0df015a00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Form.ФормаЗаписи" id="48b1906b-a8b4-440d-afee-c7c4e81f9b15" configVersion="5982e17a41e42f48a2708a678500f81200000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Form.ФормаЗаписи.Form" id="48b1906b-a8b4-440d-afee-c7c4e81f9b15.0" configVersion="e11f66aa3a6b7a408e702315c79e4a5400000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Form.ФормаЗаписи.Help" id="48b1906b-a8b4-440d-afee-c7c4e81f9b15.1" configVersion="e8b33fa3aebf9445ae6d2966f27fa86500000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Form.ФормаСписка" id="7727eab5-19a5-4ead-b73b-566397878737" configVersion="9d1a37879c4cd74ca7f3b909cceafcae00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Form.ФормаСписка.Form" id="7727eab5-19a5-4ead-b73b-566397878737.0" configVersion="22442ffcf929aa459c2b8f909343963c00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Form.ФормаСписка.Help" id="7727eab5-19a5-4ead-b73b-566397878737.1" configVersion="4219b39301fca44da659c13f86e68d5a00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.Help" id="c3b5c9d6-1c24-4d27-a0e6-1bf571fe81d3.0" configVersion="bafdc3497a188942a846f6825a37f25200000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.ManagerModule" id="c3b5c9d6-1c24-4d27-a0e6-1bf571fe81d3.2" configVersion="4f28b91b0e76f446b7da7ac05f76a37a00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииВходящаяОчередь.RecordSetModule" id="c3b5c9d6-1c24-4d27-a0e6-1bf571fe81d3.1" configVersion="0ae92cf8d6f83b48bee0840726ae211000000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь" id="53519328-f28a-4e1b-930a-016320e155bd" configVersion="f1233d3a01d3884eb4ecc607c3d16bb200000000">
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Resource.Получатели" id="3448b6d1-4d8d-4ce8-b38f-790c74f0caf9"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Resource.ТелоСообщения" id="58c809eb-1501-4aa2-97d4-85bf5b1eb394"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Dimension.Идентификатор" id="6a3a7701-7873-429f-95ec-909ebd389ad9"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Attribute.Заголовки" id="733fa7cf-e01e-459e-9e16-f54787735910"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Attribute.ДатаВремя" id="7b1ca128-3ebf-4c1f-96f4-958655ba6864"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Resource.Отправитель" id="8126d34c-4cc2-4e70-bc9e-8ba8d668ecf6"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Resource.ТипСообщения" id="c28d6607-a484-4583-b8e7-59b02d8ae694"/>
+			<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Dimension.МоментВремени" id="ccd0b0a4-8233-43e7-a6aa-d61ad3073879"/>
+		</Metadata>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.AdditionalIndexes" id="53519328-f28a-4e1b-930a-016320e155bd.3" configVersion="06f7d33da5cc164c8d6f5f286ac7d2e100000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Form.ФормаЗаписи" id="08994a99-d8ca-467a-933f-527c48ec8a4c" configVersion="adbf3dea5254f342a476add682de2e9b00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Form.ФормаЗаписи.Form" id="08994a99-d8ca-467a-933f-527c48ec8a4c.0" configVersion="b8a34131262b3a48967ebce13f0084df00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Form.ФормаЗаписи.Help" id="08994a99-d8ca-467a-933f-527c48ec8a4c.1" configVersion="5d3dffd7d3825c4eaa472394d20c96ac00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Form.ФормаСписка" id="63b8005a-b659-4c5b-98cd-b91082aa5d1e" configVersion="744883c711f1f54ea6d8eff9c914696b00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Form.ФормаСписка.Form" id="63b8005a-b659-4c5b-98cd-b91082aa5d1e.0" configVersion="bcf5b70f5a4ade478a83cf6c716d977a00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Form.ФормаСписка.Help" id="63b8005a-b659-4c5b-98cd-b91082aa5d1e.1" configVersion="e18f9466218f7c4a988ef862a0acf93c00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.Help" id="53519328-f28a-4e1b-930a-016320e155bd.0" configVersion="400a6b1d0da04346a3de23a8cc20a6c000000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.ManagerModule" id="53519328-f28a-4e1b-930a-016320e155bd.2" configVersion="ec04c52557343347804b1a2a820a507d00000000"/>
+		<Metadata name="InformationRegister.МеханизмРепликацииИсходящаяОчередь.RecordSetModule" id="53519328-f28a-4e1b-930a-016320e155bd.1" configVersion="9c8d9a1243868b4198a7256cd7daf9e400000000"/>
+		<Metadata name="Language.Русский" id="422e91d4-1324-4c65-b1e2-89a2ff32a085" configVersion="49cb2044b023084eb3d105ec137ac5cf00000000"/>
+		<Metadata name="Role.МеханизмРепликацииПолныеПрава" id="594e0487-9f08-4417-b6e9-f39a1ed0fbc3" configVersion="5ee16b25814a1d44a4bf7616c8b9ae9a00000000"/>
+		<Metadata name="Role.МеханизмРепликацииПолныеПрава.Rights" id="594e0487-9f08-4417-b6e9-f39a1ed0fbc3.0" configVersion="a4ab32be9b60ae4780f2a54c659871ac00000000"/>
+		<Metadata name="Subsystem.МеханизмРепликации" id="06922580-724f-45d9-bac4-1c5a646e7ffe" configVersion="63261d704ea72247b4cdf677745e370600000000"/>
+		<Metadata name="Subsystem.Тест" id="430ba573-fe32-4fdf-aceb-747aecf8c291" configVersion="4ac0e318f3b7804fb4ff900ee6f8ea7000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
