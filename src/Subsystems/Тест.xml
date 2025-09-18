@@ -17,6 +17,14 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Справочник1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.РегистрСведений1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.Обработка1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ПланВидовХарактеристик1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Документ1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Task.Задача1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.БизнесПроцесс1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.РегистрНакопления1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.Перечисление1</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

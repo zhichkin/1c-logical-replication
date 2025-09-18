@@ -1,94 +1,109 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="76b47281-11d3-47f8-9212-5878b6bb6cbc">
+	<InformationRegister uuid="914bfd5e-fb21-4417-a1a7-bcd58b4845ac">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Справочник1" category="Object">
-				<xr:TypeId>b04395a2-a0fd-41b8-86c8-dd5bb4dd57ec</xr:TypeId>
-				<xr:ValueId>e200f998-99f8-4240-8393-a3cff45192de</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.РегистрСведений1" category="Record">
+				<xr:TypeId>ee7135e9-689b-401b-a1e0-69d726899596</xr:TypeId>
+				<xr:ValueId>0abe0d67-aaf1-432d-94dc-d877fb570daf</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Справочник1" category="Ref">
-				<xr:TypeId>cb161b39-f15d-4930-8231-0fd3b69abbf8</xr:TypeId>
-				<xr:ValueId>d5f5d4b2-8c4d-40e0-b488-27cd20c6e6b4</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.РегистрСведений1" category="Manager">
+				<xr:TypeId>c553a9da-e5b9-4717-8213-4c0c42c75921</xr:TypeId>
+				<xr:ValueId>3f1de5af-58b6-4846-9686-41f97c7aeed9</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Справочник1" category="Selection">
-				<xr:TypeId>09a9e1fa-f151-4ef3-bb5d-c9ec5b7919fa</xr:TypeId>
-				<xr:ValueId>5e5c8c94-b904-4e30-b245-ddff53ef111d</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.РегистрСведений1" category="Selection">
+				<xr:TypeId>0012cf33-bcbe-4602-b745-66dea9196d4e</xr:TypeId>
+				<xr:ValueId>6605d491-d2d5-4e4e-8627-c94fc99ded34</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Справочник1" category="List">
-				<xr:TypeId>1efe8789-ccf7-43e2-80a1-a8794db2c9aa</xr:TypeId>
-				<xr:ValueId>c09281b3-ebee-4e7f-b30b-53ee00138c1c</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.РегистрСведений1" category="List">
+				<xr:TypeId>e387c6c7-ea11-4d56-a51d-71e36f2ce8d5</xr:TypeId>
+				<xr:ValueId>c7535bc1-b29e-4220-9c4d-3dfd06dbf58e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Справочник1" category="Manager">
-				<xr:TypeId>fdc3e63a-0f98-45ee-a263-f7a0fae56361</xr:TypeId>
-				<xr:ValueId>b0dfbc36-0471-46a0-b3ce-55b76efa6529</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.РегистрСведений1" category="RecordSet">
+				<xr:TypeId>4627de47-9337-45a0-8607-e15792707670</xr:TypeId>
+				<xr:ValueId>465b283e-46af-4177-b60d-2262bac90daa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.РегистрСведений1" category="RecordKey">
+				<xr:TypeId>1c0bce8f-c05f-4402-bead-1ec457a53c1d</xr:TypeId>
+				<xr:ValueId>15df44cf-eeb0-4b71-b09a-69f63144f618</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.РегистрСведений1" category="RecordManager">
+				<xr:TypeId>2ee0cc4c-2f42-4d24-b761-8fef691890b7</xr:TypeId>
+				<xr:ValueId>7dbf659d-0b3c-4c02-aa99-4bea1aab9aa2</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Справочник1</Name>
+			<Name>РегистрСведений1</Name>
 			<Synonym/>
 			<Comment/>
-			<Hierarchical>false</Hierarchical>
-			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
-			<LimitLevelCount>false</LimitLevelCount>
-			<LevelCount>2</LevelCount>
-			<FoldersOnTop>true</FoldersOnTop>
 			<UseStandardCommands>true</UseStandardCommands>
-			<Owners/>
-			<SubordinationUse>ToItems</SubordinationUse>
-			<CodeLength>9</CodeLength>
-			<DescriptionLength>25</DescriptionLength>
-			<CodeType>String</CodeType>
-			<CodeAllowedLength>Variable</CodeAllowedLength>
-			<CodeSeries>WholeCatalog</CodeSeries>
-			<CheckUnique>true</CheckUnique>
-			<Autonumbering>true</Autonumbering>
-			<DefaultPresentation>AsDescription</DefaultPresentation>
-			<Characteristics/>
-			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
 			<EditType>InDialog</EditType>
-			<QuickChoice>false</QuickChoice>
-			<ChoiceMode>BothWays</ChoiceMode>
-			<InputByString>
-				<xr:Field>Catalog.Справочник1.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Справочник1.StandardAttribute.Code</xr:Field>
-			</InputByString>
-			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
-			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
-			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
-			<DefaultFolderForm/>
+			<DefaultRecordForm/>
 			<DefaultListForm/>
-			<DefaultChoiceForm/>
-			<DefaultFolderChoiceForm/>
-			<AuxiliaryObjectForm/>
-			<AuxiliaryFolderForm/>
+			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<AuxiliaryChoiceForm/>
-			<AuxiliaryFolderChoiceForm/>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+			<MainFilterOnPeriod>false</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
-			<BasedOn/>
-			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
-			<FullTextSearch>Use</FullTextSearch>
-			<ObjectPresentation/>
-			<ExtendedObjectPresentation/>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
 			<Explanation/>
-			<CreateOnInput>Use</CreateOnInput>
-			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 			<DataHistory>DontUse</DataHistory>
 			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="371251b0-c6a7-4c47-93b6-4fe537ada288">
+			<Resource uuid="cce2f040-a438-470a-a5da-c7a42263045e">
 				<Properties>
-					<Name>Реквизит1</Name>
+					<Name>Ресурс1</Name>
 					<Synonym/>
 					<Comment/>
 					<Type>
-						<v8:Type>v8:ValueStorage</v8:Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>10</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:type="xs:string"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>DontUse</FullTextSearch>
+					<DataHistory>DontUse</DataHistory>
+				</Properties>
+			</Resource>
+			<Dimension uuid="ec1e4c76-4425-40eb-a779-c60319ac2bdd">
+				<Properties>
+					<Name>Измерение1</Name>
+					<Synonym/>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Справочник1</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -111,47 +126,15 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Use>ForItem</Use>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>DontUse</FullTextSearch>
-					<DataHistory>DontUse</DataHistory>
+					<DataHistory>Use</DataHistory>
+					<TypeReductionMode>TransformValues</TypeReductionMode>
 				</Properties>
-			</Attribute>
-			<Attribute uuid="9fced28e-2690-4424-a2f7-a3c35abe9dc9">
-				<Properties>
-					<Name>Реквизит2</Name>
-					<Synonym/>
-					<Comment/>
-					<Type>
-						<v8:Type>cfg:EnumRef.Перечисление1</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Use>ForItem</Use>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>DontUse</FullTextSearch>
-					<DataHistory>DontUse</DataHistory>
-				</Properties>
-			</Attribute>
+			</Dimension>
 		</ChildObjects>
-	</Catalog>
+	</InformationRegister>
 </MetaDataObject>
