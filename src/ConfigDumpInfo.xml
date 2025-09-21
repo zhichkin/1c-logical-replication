@@ -16,10 +16,10 @@
 		<Metadata name="CommonModule.МеханизмРепликацииИмпорт.Module" id="0b00ce78-6905-4607-aa06-9e054782027d.0" configVersion="7cf866cd540bbe42bfbbdd67d873f68e00000000"/>
 		<Metadata name="CommonModule.МеханизмРепликацииСобытия" id="a7ddd9a0-5525-4d74-9305-bcd3dab65330" configVersion="ab6358326ab7da42b7d041e3254f97c500000000"/>
 		<Metadata name="CommonModule.МеханизмРепликацииСобытия.Module" id="a7ddd9a0-5525-4d74-9305-bcd3dab65330.0" configVersion="ac45565a8b187142a0f108c6678e52ea00000000"/>
-		<Metadata name="CommonModule.МеханизмРепликацииЭкспорт" id="13054a5d-8494-4a48-a2aa-5b5a2bc8c8c6" configVersion="d110799983040d4784f1a403698712b800000000"/>
-		<Metadata name="CommonModule.МеханизмРепликацииЭкспорт.Module" id="13054a5d-8494-4a48-a2aa-5b5a2bc8c8c6.0" configVersion="820629be2f72a74783ab68192a5acb0600000000"/>
-		<Metadata name="CommonModule.СериализаторJDTO" id="92949c72-e37b-4f12-8435-f7987d2b15fb" configVersion="97e1cf8181f7ea429de8768ff15c1ec700000000"/>
-		<Metadata name="CommonModule.СериализаторJDTO.Module" id="92949c72-e37b-4f12-8435-f7987d2b15fb.0" configVersion="005d6bf552c3b34b9db921557100451700000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииЭкспорт" id="13054a5d-8494-4a48-a2aa-5b5a2bc8c8c6" configVersion="34e4b6b706bcac419a775b709be95a9d00000000"/>
+		<Metadata name="CommonModule.МеханизмРепликацииЭкспорт.Module" id="13054a5d-8494-4a48-a2aa-5b5a2bc8c8c6.0" configVersion="2bdf1b6155a9544db79fa46e28ff759800000000"/>
+		<Metadata name="CommonModule.СериализаторJDTO" id="92949c72-e37b-4f12-8435-f7987d2b15fb" configVersion="5612e3448cef6746becf3c55f4e9b81300000000"/>
+		<Metadata name="CommonModule.СериализаторJDTO.Module" id="92949c72-e37b-4f12-8435-f7987d2b15fb.0" configVersion="d030e7567ea64542abfc55fc6260cbd400000000"/>
 		<Metadata name="Configuration.МеханизмРепликации" id="ea9679d6-55c4-48ce-8ba7-e319b7f0b5b5" configVersion="2d9ee3f04f50ed4ebc795e01d6d6434e00000000"/>
 		<Metadata name="Configuration.МеханизмРепликации.ManagedApplicationModule" id="af1747d8-c203-4d85-b45c-1df1d3f9598e.6" configVersion="1bcefdecef09e1438689d1729711dc6e00000000"/>
 		<Metadata name="Configuration.МеханизмРепликации.SessionModule" id="af1747d8-c203-4d85-b45c-1df1d3f9598e.7" configVersion="b22d3b8f65230c41a1abe28e8530650800000000"/>
